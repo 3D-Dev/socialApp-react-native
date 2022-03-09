@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Mocha",
+    "slug": "mocha",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./app/assets/images/icon.png",
+    "splash": {
+      "image": "./app/assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "buildNumber": "3.0.0",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mochadev.mocha",
+      "userInterfaceStyle": "automatic"
+    },
+    "android": {
+      "versionCode": 3,
+      "package": "com.mochadev.mocha",
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": "",
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["js", "jsx", "svg", "ts", "tsx"]
+    }
+  }
+}

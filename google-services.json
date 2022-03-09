@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637330666148",
+    "firebase_url": "https://mocha-1f28e.firebaseio.com",
+    "project_id": "mocha-1f28e",
+    "storage_bucket": "mocha-1f28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637330666148:android:651ababa28bf95258bac31",
+        "android_client_info": {
+          "package_name": "com.mochadev.mocha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637330666148-f39msf6j3vj019v0nr8eo84ommefhf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhEMPCTbYgZHakInmoHA4jnsHF2zscb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637330666148-f39msf6j3vj019v0nr8eo84ommefhf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
